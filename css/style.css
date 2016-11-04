@@ -1,6 +1,9 @@
 @charset "UTF-8";
 .new20161103{ 
 	width: 400px;
-	height: 120px;
+	height: 40px;
 	background: orange;
+}
+p{ 
+	background:aqua;
 }
